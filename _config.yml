@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Gregory Palmer"
   avatar           : "gpalmer.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Negative Update Intervals in Deep Multi-Agent Reinforcement Learning"
+  location         : "https://www.google.com/maps/place/University+of+Liverpool+Department+of+Geography+%26+Planning/@53.403161,-2.9673828,17z/data=!4m8!1m2!2m1!1sGeographic+Data+Science+Lab+University+of+liverpool!3m4!1s0x487b211ebbef3371:0x1d86fd332d3f186a!8m2!3d53.4015397!4d-2.9650785"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Eev2NNgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
