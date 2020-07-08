@@ -11,31 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. (Artificial Intelligence) Hons., University of Liverpool, September 2013 -June 2016 (First-Class Honours)
+* Ph.D Comuter Science under the supervision of <a href="http://www.karltuyls.net/">Prof. Karl Tuyls</a> and <a href="http://cgi.csc.liv.ac.uk/~rahul/"> Prof. Rahul Savani</a>.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2019 - July 2020: 
+  * Research Fellow
+  * Geographic Data Science Lab
+  * University of Liverpool  
+  * Supervisors: [Professor Alex Singleton](https://www.alex-singleton.com/) and [Dr. Mark Green](https://www.liverpool.ac.uk/environmental-sciences/staff/mark-green/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Starting August 2020: PostDoc
+  * L3S Research Center
+  * Leibniz Universität Hannover
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +44,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
