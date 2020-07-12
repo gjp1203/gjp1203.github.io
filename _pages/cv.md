@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.Sc. (Artificial Intelligence) Hons., University of Liverpool, September 2013 -June 2016 (First-Class Honours)
-* Ph.D Comuter Science under the supervision of <a href="http://www.karltuyls.net/">Prof. Karl Tuyls</a> and <a href="http://cgi.csc.liv.ac.uk/~rahul/"> Prof. Rahul Savani</a>.
+* In 2019 I completed my PhD Thesis [Independent Learning Approaches: Overcoming
+Multi-Agent Learning Pathologies In Team-Games](https://gjp1203.github.io/files/GPalmer_PhD_Thesis.pdf) under the supervision of <a href="http://www.karltuyls.net/">Prof. Karl Tuyls</a> and <a href="http://cgi.csc.liv.ac.uk/~rahul/"> Prof. Rahul Savani</a>. My examiners were [Dr. Daniel Kudenko](https://www.l3s.de/~kudenko/) (external), [Dr. Enda Howley](http://endahowley.ie/) (external) and [Dr. Martin Gairing](https://cgi.csc.liv.ac.uk/~gairing/) (internal).
 
 Work experience
 ======
