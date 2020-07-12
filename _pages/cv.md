@@ -38,6 +38,23 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+
+Program Committee Member
+======
+
+* European Conference on Artificial Intelligence (ECAI 2020), 
+* International Joint Conference on Artificial Intelligence (IJCAI 2020), 
+* Neural Information Processing Systems (NeurIPS 2020).
+
+Reviewing
+======
+
+* Journal of Autonomous Agents and Multi-Agent Systems, 
+* Artificial Intelligence, 
+* Ambient Intelligence and Humanized Computing, 
+* Transactions in GIS.
+
   
 Teaching
 ======
