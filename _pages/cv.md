@@ -43,9 +43,9 @@ Talks
 Program Committee Member
 ======
 
-* European Conference on Artificial Intelligence (ECAI 2020), 
-* International Joint Conference on Artificial Intelligence (IJCAI 2020), 
-* Neural Information Processing Systems (NeurIPS 2020).
+* European Conference on Artificial Intelligence ([ECAI 2020](http://ecai2020.eu/)), 
+* International Joint Conference on Artificial Intelligence ([IJCAI 2020](https://ijcai20.org/)), 
+* Neural Information Processing Systems ([NeurIPS 2020](https://nips.cc/Conferences/2020)).
 
 Reviewing
 ======
