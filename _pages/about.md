@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PostDoc at the  <a href="https://www.l3s.de/en">L3S Research Center</a>, Leibmiz University Hannover, Germany. My research focus is on multi-agent reinforcement learning (MARL), in particular the scalability of traditional MARL methods to deep-MARL. 
+I am a PostDoc at the  <a href="https://www.l3s.de/en">L3S Research Center</a>, Leibniz University Hannover, Germany. My research focus is on multi-agent reinforcement learning (MARL), in particular the scalability of traditional MARL methods to deep-MARL. 
 
 Previously I was a research fellow in the University of Liverpool's <a href="https://www.liverpool.ac.uk/geographic-data-science/">Geographical Data Science Lab (GDSL)</a>, where my research focused on applying state-of-the-art deep learning methods toward solving public health problems, e.g., the identification of unhealthy advertisements within street view images. 
 
