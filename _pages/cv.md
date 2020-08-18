@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.Sc. (Artificial Intelligence) Hons., University of Liverpool, September 2013 -June 2016 (First-Class Honours)
-* Ph.D Comuter Science under the supervision of <a href="http://www.karltuyls.net/">Prof. Karl Tuyls</a> and <a href="http://cgi.csc.liv.ac.uk/~rahul/"> Prof. Rahul Savani</a>.
+* In 2019 I completed my PhD Thesis [Independent Learning Approaches: Overcoming
+Multi-Agent Learning Pathologies In Team-Games](https://gjp1203.github.io/files/GPalmer_PhD_Thesis.pdf) under the supervision of <a href="http://www.karltuyls.net/">Prof. Karl Tuyls</a> and <a href="http://cgi.csc.liv.ac.uk/~rahul/"> Prof. Rahul Savani</a>. My examiners were [Dr. Daniel Kudenko](https://www.l3s.de/~kudenko/) (external), [Dr. Enda Howley](http://endahowley.ie/) (external) and [Dr. Martin Gairing](https://cgi.csc.liv.ac.uk/~gairing/) (internal).
 
 Work experience
 ======
@@ -37,6 +38,23 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+
+Program Committee Member
+======
+
+* European Conference on Artificial Intelligence ([ECAI 2020](http://ecai2020.eu/)), 
+* International Joint Conference on Artificial Intelligence ([IJCAI 2020](https://ijcai20.org/)), 
+* Neural Information Processing Systems ([NeurIPS 2020](https://nips.cc/Conferences/2020)).
+
+Reviewing
+======
+
+* Journal of Autonomous Agents and Multi-Agent Systems, 
+* Artificial Intelligence, 
+* Ambient Intelligence and Humanized Computing, 
+* Transactions in GIS.
+
   
 Teaching
 ======

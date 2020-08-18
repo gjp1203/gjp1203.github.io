@@ -14,4 +14,3 @@ Previously I was a research fellow in the University of Liverpool's <a href="htt
 
 I completed my PhD in 2019 at the University of Liverpool's computer science department under the supervision of <a href="http://www.karltuyls.net/">Prof. Karl Tuyls</a> and <a href="http://cgi.csc.liv.ac.uk/~rahul/"> Prof. Rahul Savani</a>. During my PhD I developed a number of approaches that enable independent learners to overcome multi-agent learning pathologies within fully-cooperative team-games, both in traditional settings and domains that necessitate a deep multi-agent reinforcement learning approach.
 
-
